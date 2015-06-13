@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact Nat Dudley
 ---
 
 <div id="contact">
@@ -10,7 +10,7 @@ title: Contact Long Haul
     <p>The best way to get hold of me is Twitter. I'm <a href="https://twitter.com/{{ site.social.twitter }}">@{{ site.social.twitter }}</a></p>
     <p>The second-best way to get hold of me is this form.
   </div>
-  <form action="http://formspree.io/your@mail.com">
+  <form action="http://formspree.io/natalie.dudley@gmail.com">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
