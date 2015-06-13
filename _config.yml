@@ -1,7 +1,7 @@
 title: String Theory
 description: Thoughts on tech from someone who likes yarn.
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://natdudley.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
