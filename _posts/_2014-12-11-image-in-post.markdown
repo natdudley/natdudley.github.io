@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bad UX, Twitter, and "bullying""
-date:   2014-12-11
+date:   2015-02-18
 ---
 
 <p class="intro"><span class="dropcap">T</span>he longer you've been on Twitter, the more likely it is that you've seen, been part of, or been on the receiving end of what I would politely term a Twitter Clusterfuck.</p>
