@@ -4,7 +4,6 @@ title: Contact Nat Dudley
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
     <p class="intro">If you'd like help with UX problems, or with conference or tech diversity, message me. Be nice.
     <p>The best way to get hold of me is Twitter. I'm <a href="https://twitter.com/{{ site.social.twitter }}">@{{ site.social.twitter }}</a></p>

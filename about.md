@@ -4,7 +4,6 @@ title: About Long Haul
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Nat</h1>
 	<p class="intro">Hi, I'm Nat.</p>
 	<p>I'm a UX and Comms designer from Auckland, New Zealand. I work for a growing software startup, and help other software companies out with their UX and comms design problems.</p>
 
