@@ -40,19 +40,23 @@ The first thing you learn when you first start talking to the security community
 
 Once you're working from that baseline truth, it's not a matter of if you'll be compromised, but when.
 
-There's a fundamental difference in the way you approach the problem once you're thinking 'when'. When you're in 'if' mode, you tend to think about it as being something you can stop. You think you can fix all the holes if you just build big enough (metaphorical) walls.
+There's a fundamental difference in the way you approach the problem once you're thinking 'when'. When you're in 'if' mode, you think about attacks as something you can prevent. You think you can keep people out if you just build big enough (metaphorical) walls.
 
-Once you're in 'when' mode, you have to start being strategic. At Kiwicon, one of the speakers discussed this - understanding not only what you have to protect, but who you have to protect it from, and that they're not an amorphous blob of "EV1L HACK3RS".
+Once you're in 'when' mode, you have to start being strategic. The size of the wall doesn't count; what matters is making the cost:benefit ratio too low. Attackers are humans with motivations.
 
-He discussed understanding the difference in motivation and cost for a pro vs a script kiddie. He discussed the tools available to each of them, and what those tools enabled them to do. He talked about how much they time they were willing to spend, given that time equates to money.
+At Kiwicon, one of the speakers discussed this - understanding not only what you have to protect, but who you have to protect it from, and that they're not an amorphous blob of "EV1L HACK3RS".
+
+He discussed understanding the difference in motivation and cost for a pro vs a script kiddie. He talked about the tools available to each of them, and what those tools enabled them to do. He talked about how much they time they were willing to spend, given that time equates to money, and how that related to the system you were trying to protect.
 
 Essentially, he was talking about building attacker personas. These personas could then be used to help make strategic decisions about which parts of the systems to focus on defending. This helps to ensure the most effective defences are built with the limited resources available.
 
 Like interface design, once you understand who you're designing security for, it's a lot easier to place obstacles in their way. Unlike interface design, security design doesn't have a well-established practice for this. Here, designers could help security teams build personas to enable more effective defence.
 
+The neat thing? Designers have to build new personas for every product. There are hundreds of different user personas, and each product only deals with the ones relevant to them. Attacker-personas are different. They're less product-specific, and a good set of attacker-personas could be used to help plan security in many systems.
+
 ##The terrible product descended from CERN
 
-I recently stumbled across product: Error Pages from Statuspage.io. The product allows you to enter your brand colours and some details, and gives you a downloadable HTML file for a 404, 503, and maintenance page.
+Recently, I was lnked to a new product: [Better Error Pages from Statuspage.io](https://better-error-pages.statuspage.io). The product allows you to enter your brand colours and some details, and gives you a downloadable HTML file for a 404, 503, and maintenance page.
 
 On the surface, it seems like a non-awful idea. Package up a nice, easy way to get a non-ugly error page. Users expect something a bit prettier these days. Everyone has them, and if you don't, you'll look bad.
 
@@ -60,15 +64,13 @@ Take a second glance, and it's a terrible idea from both a design and a security
 
 For most applications, the majority of your end-users will be non-technical. Your design personas would likely highlight that, when something goes wrong, they feel comforted by professional presentation and clear directions. They don't need or understand technical jargon.
 
-They're not interested in the error code on the page. They're not really interested in your server issues or if you can't find the page. This is superfluous information. They want to know what to do next.
+They're not interested in the error code on the page. They're not really interested in your server issues. This is superfluous information. They want to know what to do next.
 
-When you're trying to break into someone else's site, information is gold. The security personas would likely have highlighted that they're interested in knowing where and when things are going wrong, because that's somewhere they can start digging.
+When you're trying to break into someone else's site, information is gold. The security personas would likely have highlighted that they're interested in knowing where and when things are going wrong, because that's somewhere they can start digging. There is no good reason to _ever_ show an end-user an HTTP status code on a production site. You never, ever want to give an attacker more information than you need to.
 
-This is a perfect example of cargo-cult thinking. There is no good reason to _ever_ show an end-user an HTTP status code on a production site. You never, ever want to give an attacker more information than you need to.
+This is a perfect example of cargo-cult thinking. We should have them because everyone has them, right? Turns out that back in the early days of the Web, the browsers at CERN dumped status codes on a page for machines to read. They were never intended for users to read. But, people didn't understand the specs, and so they just copied them. Decades later, they're still here. In the intervening years, they've become beautiful and on-brand.
 
-But, the early browsers at CERN dumped them there for machines to read. They were never intended for our users to read. But, people didn't understand the specs, and decades later, and in the intervening years, they've become beautiful and on-brand.
-
-Everyone makes them because everyone always has. But your end users don't want or need the error codes. You don't want to give them to your attackers. But here they are, in this product, and in pages all over the web.
+Our end users don't want them. We don't want to give them to attackers. But they still exist, and so do products like Statuscode.io's Error Pages.
 
 Nobody involved in that product, from designers to security folks, sat down and thought about a persona-based design for this: giving the people who need information the right information at the right time, and keeping the stuff we don't want to share out of reach.
 
