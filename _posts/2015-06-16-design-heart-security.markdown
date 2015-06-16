@@ -14,7 +14,7 @@ So, why don't we work more closely together? Why don't we learn from each other 
 
 One tool that's extremely popular in the design world is the persona. Personas are example user profiles. These include names, ages, backgrounds, motivations and aspirations, skills and frustrations. They are created by researching your user base and creating fictional composite profiles that reflect the range of your users.
 
-Personas are used to help designers ensure they keep the needs of all the desired user-base in mind when making decisions. This helps them to meet all their needs.
+Personas are used to help designers keep the needs and lives of the range of their users in mind when making decisions. This helps them to meet all their needs.
 
 > One thing that's often missing in design personas is any mention of privacy or security concerns. What it would mean for that user to lose access to their account, their personal details, for their business to be compromised. Designers don't think like bad people often enough!
 
