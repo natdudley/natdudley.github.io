@@ -76,8 +76,10 @@ Nobody involved in that product, from designers to security folks, sat down and 
 
 ##We should talk
 
-The scary thing is that the two disciplines are deeply interlinked. Bad design, especially bad UX, can cause bad security - like the banking apps that don't let you paste your password in from your password manager, or don't let you use your browser autocomplete. And bad security can definitely result in a bad user experience. One of the biggest problems in security is the squishy humans, as [Laura Bell](http://www.twitter.com/lady_nerd) would say, and that's a problem that we need to work together to solve.
+The two disciplines are deeply interlinked. Bad design, especially bad UX, can cause bad security - like the banking apps that don't let you paste your password in from your password manager, or don't let you use your browser autocomplete. 
 
-We don't talk enough about how design and security can help each other. We should talk.
+Bad security can definitely result in a bad user experience. One of the biggest problems in security is the squishy humans, as [Laura Bell](http://www.twitter.com/lady_nerd) would say, and that's a problem that we need to work together to solve.
+
+We don't talk enough about how design and security can help each other. Let's talk.
 
 
