@@ -22,9 +22,7 @@ Personas are used to help designers keep the needs and lives of the range of the
 
 I'm going to break down 3 recent examples I've seen where design and security could've worked together better using personas as a tool.
 
-##Example implementations:
-
-###The sign up form redesign
+##The sign up form redesign
 
 I recently observed a team redesign their sign up forms. The designers spent a lot of time working with the marketing team to figure out what information needed to be collected, and the best way to collect that information without creating friction for the customer. Versions were iterated over and A/B tested for hours and hours. 
 
@@ -34,7 +32,7 @@ The passwords had no minimum length, and no indication of strength to help users
 
 The designers had created personas - but none of the personas mentioned security or privacy requirements. There were no personas for the bad guys. Nothing to help them think like the bad guys and work to thwart them. Here, security could help designers build the right personas to reduce risk to users.
 
-###The Kiwicon talk
+##The Kiwicon talk
 
 People outside the security community think about being compromised as an 'if'.
 
@@ -52,7 +50,7 @@ Essentially, he was talking about building attacker personas. These personas cou
 
 Like interface design, once you understand who you're designing security for, it's a lot easier to place obstacles in their way. Unlike interface design, security design doesn't have a well-established practice for this. Here, designers could help security teams build personas to enable more effective defence.
 
-###The terrible product descended from CERN
+##The terrible product descended from CERN
 
 I recently stumbled across product: Error Pages from Statuspage.io. The product allows you to enter your brand colours and some details, and gives you a downloadable HTML file for a 404, 503, and maintenance page.
 
@@ -74,10 +72,10 @@ Everyone makes them because everyone always has. But your end users don't want o
 
 Nobody involved in that product, from designers to security folks, sat down and thought about a persona-based design for this: giving the people who need information the right information at the right time, and keeping the stuff we don't want to share out of reach.
 
-<hr>
+##We should talk
 
 The scary thing is that the two disciplines are deeply interlinked. Bad design, especially bad UX, can cause bad security - like the banking apps that don't let you paste your password in from your password manager, or don't let you use your browser autocomplete. And bad security can definitely result in a bad user experience. One of the biggest problems in security is the squishy humans, as [Laura Bell](http://www.twitter.com/lady_nerd) would say, and that's a problem that we need to work together to solve.
 
-We don't talk enough about how design and security can help each other. 
+We don't talk enough about how design and security can help each other. We should talk.
 
-We should talk.
+
