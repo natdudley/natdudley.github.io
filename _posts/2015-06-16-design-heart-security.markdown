@@ -16,7 +16,9 @@ One tool that's extremely popular in the design world is the persona. Personas a
 
 Personas are used to help designers keep the needs and lives of the range of their users in mind when making decisions. This helps them to meet all their needs.
 
-> One thing that's often missing in design personas is any mention of privacy or security concerns. What it would mean for that user to lose access to their account, their personal details, for their business to be compromised. Designers don't think like bad people often enough!
+> Design personas often lack any mention of privacy or security concerns. They rarely consider what it would mean for that user to lose access to their account, their personal details, for their business to be compromised.
+>
+> Nor do they consider attacker-personas: personas for people you don't want to access your systems. 
 
 I'm going to break down 3 recent examples I've seen where design and security could've worked together better using personas as a tool.
 
