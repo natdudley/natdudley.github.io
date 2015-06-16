@@ -56,7 +56,7 @@ The neat thing? Designers have to build new personas for every product. There ar
 
 ##The terrible product descended from CERN
 
-Recently, I was lnked to a new product: [Better Error Pages from Statuspage.io](https://better-error-pages.statuspage.io). The product allows you to enter your brand colours and some details, and gives you a downloadable HTML file for a 404, 503, and maintenance page.
+Recently, I was linked to a new product: [Better Error Pages from Statuspage.io](https://better-error-pages.statuspage.io). The product allows you to enter your brand colours and some details, and gives you a downloadable HTML file for a 404, 503, and maintenance page.
 
 On the surface, it seems like a non-awful idea. Package up a nice, easy way to get a non-ugly error page. Users expect something a bit prettier these days. Everyone has them, and if you don't, you'll look bad.
 
