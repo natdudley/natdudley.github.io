@@ -12,7 +12,7 @@ The reality is that they're two sides of the same coin. They require the same ty
 
 So, why don't we work more closely together? Why don't we learn from each other and use each other's knowledge, techniques, and tools?
 
-One tool that's extremely popular in the design world is the persona. Personas are example user profiles. These include names, ages, backgrounds, motivations and aspirations, skills and frustrations. They are created by researching your user base and creating fictional composite profiles that reflect the range of your users.
+One tool that's extremely popular in the design world is the persona. [Personas are example user profiles](https://creativecompanion.wordpress.com/2011/05/05/the-persona-core-poster/). These include names, ages, backgrounds, motivations and aspirations, skills and frustrations. They are created by researching your user base and creating fictional composite profiles that reflect the range of your users.
 
 Personas are used to help designers keep the needs and lives of the range of their users in mind when making decisions. This helps them to meet all their needs.
 
