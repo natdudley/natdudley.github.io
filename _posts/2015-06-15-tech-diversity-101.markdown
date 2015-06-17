@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tech Diversity 101"
+title:  "Tech Inclusion 101"
 date:   2015-06-15
 ---
 
