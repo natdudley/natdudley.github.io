@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design 💞 Security"
+title:  "Design &#10084; Security"
 date:   2015-06-16
 ---
 
