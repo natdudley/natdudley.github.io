@@ -4,9 +4,7 @@ title:  "Design 💞 Security"
 date:   2015-06-16
 ---
 
-<p class="intro"><span class="dropcap">L</span>ast year, I went to Kiwicon for the first time. The most frequent question I was (and am) asked is why? As a designer, why did I go?</p>
-
-To many people design and security are at the opposite ends of the tech spectrum. One deals with the deep complexities of how the machines and code work (or don't work). The other deals with how the very surface of the stack is presented to humans.
+<p class="intro"><span class="dropcap">T</span>o many people design and security are at the opposite ends of the tech spectrum. One deals with the deep complexities of how the machines and code work (or don't work). The other deals with how the very surface of the stack is presented to humans.</p>
 
 The reality is that they're two sides of the same coin. They require the same type of thinking. They're both about how people interact with systems, and about what motivates those people, for good or bad.
 
