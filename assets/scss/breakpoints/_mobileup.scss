@@ -168,8 +168,8 @@ HEADER STYLING
 ***************/
 
 .header {
-	background-color: seagreen;
-	background-image: url('../img/touring.jpg');
+	background-color: #424242;
+	@include at2x('../img/touring.jpg', png, auto, auto);
 	background-size: cover; 
 	background-position: center center;
 	color: white;
