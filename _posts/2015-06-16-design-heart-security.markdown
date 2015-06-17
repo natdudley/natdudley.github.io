@@ -52,7 +52,7 @@ Like interface design, once you understand who you're designing security for, it
 
 The neat thing? Designers have to build new personas for every product. There are hundreds of different user personas, and each product only deals with the ones relevant to them. Attacker-personas are different. They're less product-specific, and a good set of attacker-personas could be used to help plan security in many systems.
 
-##The terrible product descended from CERN
+##The terrible product descended from [CERN](http://home.web.cern.ch/topics/birth-web)
 
 Recently, I was linked to a new product: [Better Error Pages from Statuspage.io](https://better-error-pages.statuspage.io). The product allows you to enter your brand colours and some details, and gives you a downloadable HTML file for a 404, 503, and maintenance page.
 
@@ -66,7 +66,7 @@ They're not interested in the error code on the page. They're not really interes
 
 When you're trying to break into someone else's site, information is gold. The security personas would likely have highlighted that they're interested in knowing where and when things are going wrong, because that's somewhere they can start digging. There is no good reason to _ever_ show an end-user an HTTP status code on a production site. You never, ever want to give an attacker more information than you need to.
 
-This is a perfect example of cargo-cult thinking. We should have them because everyone has them, right? Turns out that back in the early days of the Web, the original CERN httpd web server dumped status codes on a page for machines to read. They were never intended for users to read. But, people didn't understand the specs, and so they just copied them. Decades later, they're still here. In the intervening years, they've become beautiful and on-brand.
+This is a perfect example of [cargo-cult thinking](https://en.wikipedia.org/wiki/Cargo_cult_programming). We should have them because everyone has them, right? Turns out that back in the early days of the Web, the original [CERN](http://home.web.cern.ch/topics/birth-web) httpd web server dumped status codes on a page for machines to read. They were never intended for users to read. But, people didn't understand the specs, and so they just copied them. Decades later, they're still here. In the intervening years, they've become beautiful and on-brand.
 
 Our end users don't want them. We don't want to give them to attackers. But they still exist, and so do products like Statuscode.io's Error Pages.
 
