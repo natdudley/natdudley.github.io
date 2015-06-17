@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NZ Conference Diversity Guide"
+title:  "NZ Conference Inclusion Guide"
 date:   2015-04-20
 ---
 
