@@ -66,7 +66,7 @@ They're not interested in the error code on the page. They're not really interes
 
 When you're trying to break into someone else's site, information is gold. The security personas would likely have highlighted that they're interested in knowing where and when things are going wrong, because that's somewhere they can start digging. There is no good reason to _ever_ show an end-user an HTTP status code on a production site. You never, ever want to give an attacker more information than you need to.
 
-This is a perfect example of cargo-cult thinking. We should have them because everyone has them, right? Turns out that back in the early days of the Web, the browsers at CERN dumped status codes on a page for machines to read. They were never intended for users to read. But, people didn't understand the specs, and so they just copied them. Decades later, they're still here. In the intervening years, they've become beautiful and on-brand.
+This is a perfect example of cargo-cult thinking. We should have them because everyone has them, right? Turns out that back in the early days of the Web, the original httpd web server at CERN dumped status codes on a page for machines to read. They were never intended for users to read. But, people didn't understand the specs, and so they just copied them. Decades later, they're still here. In the intervening years, they've become beautiful and on-brand.
 
 Our end users don't want them. We don't want to give them to attackers. But they still exist, and so do products like Statuscode.io's Error Pages.
 
