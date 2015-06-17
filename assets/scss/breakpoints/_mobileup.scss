@@ -169,7 +169,7 @@ HEADER STYLING
 
 .header {
 	background-color: #424242;
-	@include at2x('../img/touring.jpg', png, auto, auto);
+	@include at2x('../img/touring', jpg, auto, auto);
 	background-size: cover; 
 	background-position: center center;
 	color: white;
