@@ -30,7 +30,7 @@ The passwords had no minimum length, and no indication of strength to help users
 
 The designers had created personas - but none of the personas mentioned security or privacy requirements. There were no personas for the bad guys. Nothing to help them think like the bad guys and work to thwart them. Here, security could help designers build the right personas to reduce risk to users.
 
-##The Kiwicon talk
+##The [Kiwicon](https://www.kiwicon.org) talk
 
 People outside the security community think about being compromised as an 'if'.
 
@@ -42,7 +42,7 @@ There's a fundamental difference in the way you approach the problem once you're
 
 Once you're in 'when' mode, you have to start being strategic. The size of the wall doesn't count; what matters is making the cost:benefit ratio too low. Attackers are humans with motivations.
 
-At Kiwicon, one of the speakers discussed this - understanding not only what you have to protect, but who you have to protect it from, and that they're not an amorphous blob of "EV1L HACK3RS".
+At [Kiwicon](https://www.kiwicon.org), a security conference, one of the speakers discussed this - understanding not only what you have to protect, but who you have to protect it from, and that they're not an amorphous blob of "EV1L HACK3RS".
 
 He discussed understanding the difference in motivation and cost for a pro vs a script kiddie. He talked about the tools available to each of them, and what those tools enabled them to do. He talked about how much they time they were willing to spend, given that time equates to money, and how that related to the system you were trying to protect.
 
