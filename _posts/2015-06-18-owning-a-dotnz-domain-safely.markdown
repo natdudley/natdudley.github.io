@@ -55,7 +55,7 @@ Find the domain you want to purchase. Create an account using your main email ad
 
 When you are asked to provide registration details, provide your real name. For all other registration details, provide the throwaway email address, prepaid phone number, and address you set up earlier.
 
-You'll need to make sure these details are listed for the Domain Owner, Administrative Contact and Technical Contact. These are all listed.
+You'll need to make sure these details are listed for the Domain Owner, Administrative Contact and Technical Contact. These are all visible in your public whois record.
 
 Congratulations. You now own a domain without exposing your personal details.
 
