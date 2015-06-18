@@ -57,4 +57,6 @@ When you are asked to provide registration details, provide your real name. For 
 
 You'll need to make sure these details are listed for the Domain Owner, Administrative Contact and Technical Contact. These are all listed.
 
+Congratulations. You now own a domain without exposing your personal details.
+
 \* This policy will be reviewed this year. Hopefully it will change.
