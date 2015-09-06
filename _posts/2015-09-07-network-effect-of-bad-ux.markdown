@@ -9,4 +9,4 @@ Recently, I gave my first ever conference talk at Microsoft NZ's Ignite 2015 con
 
 You can watch it below.
 
-<iframe src="https://player.vimeo.com/video/138378373" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/138378373" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
