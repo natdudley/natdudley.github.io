@@ -20,7 +20,7 @@ In addition to this, there are services who scrape (collect) any information add
 
 ## Why is that a problem?
 
-If it's not a problem for you, you're lucky! But, for lots of people, it's a scary thing. Stalkers, harassers, and bullies can all access this information. Anyone, now or in the future, who decides to hold any form of grudge against you will be able to find where you live in about 30 seconds.
+If it's not a problem for you, that's great! But, for lots of people, it's a scary thing. Stalkers, harassers, and bullies can all access this information. Anyone, now or in the future, who decides to hold any form of grudge against you will be able to find where you live in about 30 seconds.
 
 Here's some people this is especially scary for:
 
