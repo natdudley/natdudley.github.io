@@ -80,4 +80,3 @@ You can read some other submissions here:
 - https://dnc.org.nz/content/whois_consultation_2_michelle_morpeth.html
 - https://dnc.org.nz/content/whois_consultation_2_natasha_batsford.html
 - https://dnc.org.nz/content/whois_consultation_2_2-4_details_withheld.html
-
